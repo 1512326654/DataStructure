@@ -36,6 +36,7 @@ public class LinearList {
 	}
 	public boolean isEmpty(){
 		return (size == 0) ? true : false;
+
 	}
 
 }
